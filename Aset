@@ -1,1 +1,10 @@
-
+{
+  "chainId": 101,
+  "address": "B1H9y1LTijmTGBXKRVGXVArkeubNzLNGAq1trkoPpump",
+  "symbol": "NFX",
+  "name": "NeuroX",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/<your-username>/token-list/main/assets/B1H9y1LTijmTGBXKRVGXVArkeubNzLNGAq1trkoPpump/logo.png",
+  "tags": ["utility", "ai", "community"]
+}
+https://raw.githubusercontent.com/
